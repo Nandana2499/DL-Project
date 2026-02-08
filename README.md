@@ -96,14 +96,6 @@ Streamlit (for deployment)
 
 Jupyter Notebook
 
-
-NOTE:
-Due to GitHub file size limitations, the trained CNN model is hosted externally.
-"To Get The Saved Model:"
-[Download the trained model (.h5) here](https://drive.google.com/file/d/1yTdWyofKBbA0xNxBrt7QeCG3GRnSuPtd/view?usp=sharing)
-After downloading, place the file in the project root directory before running the app.
-
-
 🎯 Project Outcomes
 
 This project demonstrates:
